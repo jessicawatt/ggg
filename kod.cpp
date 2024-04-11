@@ -1,7 +1,7 @@
 #include<iostream> 
 #include<string> 
 #include<map> 
-
+// chto to pishy...
 using namespace std;
 
 map<char, string> Morze = {
